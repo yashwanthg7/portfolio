@@ -1,6 +1,5 @@
 import React from 'react'
 import { PaddingContainer, Heading, BlueText, FlexContainer, Button } from './styled-components/Global.styled'
-import emailjs from 'emailjs-com';
 import { ContactForm, FormLabel, FormInput } from './styled-components/Footer.styled'
 import { motion } from 'framer-motion';
 import { fadeInBottomVariant } from '../utils/Variants';
