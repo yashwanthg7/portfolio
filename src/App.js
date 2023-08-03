@@ -13,7 +13,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <MainBody>
         <Container>
-            <Navbar />
+            {/* <Navbar /> */}
             <Showcase />
             <MySkills />
             <MyProjects />

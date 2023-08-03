@@ -66,7 +66,7 @@ const Project = ({
                     )}
 
                     {githubLink && (
-                        <a href={githubLink} target="_blank" rel="noopener noreferrer">
+                        <a href={githubLink} target="_blank" rel="noopener noreferrer" >
                             <IconContainer color="blue" size="2rem">
                                 <FaGithub />
                             </IconContainer>
